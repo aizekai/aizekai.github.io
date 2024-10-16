@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# Welcome! 
 I'm a second year master student majoring in Mechanical Engineering at [National University of Singapore](https://nus.edu.sg/). I will graduate in January 2025. I graduated from [Jilin University](https://www.jlu.edu.cn/) with a double degree in [Mechanical Engineering](../assets/MEDegree.pdf) and [Computer Science and Engineering](../assets/CSDegree.pdf) in June 2023. My research interest includes Robotic Arm, Artificial Intelligence, Digital Twin, Wearable Devices and EV Battery Disassembly.
 
 I am very fortunate to be advised by [Prof. Ong Soh Khim](https://scholar.google.com/citations?user=u9aw970AAAAJ&hl=zh-CN&oi=ao) and [Prof. Nee Yeh Ching](https://scholar.google.com/citations?user=eGzaWUAAAAAJ&hl=zh-CN&oi=sra) from Augmented Reality Lab in [Department of Mechanical Engineering](https://cde.nus.edu.sg/me/), National University of Singapore. I was advised by [Prof. Liu Siyuan](https://teachers.jlu.edu.cn/liusy/zh_CN/index.htm) from [School of Mechanical and Aerospace Engineering](https://mae.jlu.edu.cn/), Jilin University.
