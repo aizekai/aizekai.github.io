@@ -85,9 +85,10 @@ Beta Random Restart Strategy-based Remora Optimization Algorithm for Global Opti
 - *2020.09 - 2023.06*, Second Bachelor's Degree, Computer Science and Engineering, College of Computer Science and Engineering, Jilin University, Changchun, China, Supervisor: Prof. Dong Jinnan. [Thesis](../assets/CS Bachelor's Thesis.pdf)
 - *2022.09 - 2023.05*, Joint Education, Mechanical Engineering, National University of Singapore (Suzhou) Research Institute, Suzhou, China, Supervisor: Prof. Ong Soh Khim and Prof. Nee Yeh Ching. [Thesis](../assets/ME Bachelor's Thesis.pdf)
 
-# 💬 Invited Talks
+<!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
