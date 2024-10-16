@@ -44,11 +44,36 @@ You can find my CV here: [Zekai Ai's Curriculum Vitae](../assets/CVAiZekai.pdf).
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIST 2024</div><img src='images/BROA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+Beta Random Restart Strategy-based Remora Optimization Algorithm for Global Optimization
+**Zekai Ai**, Xiaoming Shi*, Heming Jia*
+
+[**PDF**](../assets/BROA.pdf)| <strong>Conference Paper</strong>
+- Use Beta-random Restart Strategy and Cauchy Strategy to optimize the Remora Optimization Algorithm.
+</div>
+</div>
+<!--
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+-->
 # 💻 Academic Experience
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automation 2024</div><img src='images/AIEV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Artificial Intelligence in Electric Vehicle Battery Disassembly: A Systematic Review](https://www.mdpi.com/2673-4052/5/4/28)
+
+**Zekai Ai**, A.Y.C. Nee, S.K. Ong*
+
+[**PDF**](../assets/AIEVB.pdf)| <strong>Journal Paper</strong>
+- Summarized AI application in electric vehicle battery disassembly process, including state-of-health estimation, disassembly sequence planning, disassembly operations.
+</div>
+</div>
+
+<!--
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+-->
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
