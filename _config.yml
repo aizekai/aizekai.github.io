@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zekai Ai (艾泽凯)"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "Zekai Ai(艾泽凯)"
+  avatar           : "images/Photo.png"
   bio              : "Master Student at National University of Singapore"
   location         : "Singapore"
-  employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  employer         : "NUS"
+  pubmed           : #
+  googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  email            : "aizekai@u.nus.edu"
+  researchgate     : "https://www.researchgate.net/profile/Zekai-Ai"
   uri              :
   bitbucket        :
   codepen          :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0006-1014-4456"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
