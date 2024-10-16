@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : #"Lorem ipsum"
-description              : #"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+title                    : "Zekai Ai"
+description              : "Master Student in National University of Singapore"
 repository               : #"RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,10 +22,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zekai Ai艾泽凯"
-  avatar           : "images/Photo.png"
-  bio              : "Master Student at National University of Singapore"
-  location         : "Singapore"
-  employer         : "NUS"
+  avatar           : "images/BigPhoto.png"
+  bio              : #"Master Student at National University of Singapore"
+  location         : "NUS, Singapore"
+  employer         : #"NUS"
   pubmed           : #
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "aizekai@u.nus.edu"
