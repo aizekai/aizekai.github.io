@@ -48,7 +48,7 @@ You can find my CV here: [Zekai Ai's Curriculum Vitae](../assets/CVAiZekai.pdf).
 <div class='paper-box-text' markdown="1">
 
 Beta Random Restart Strategy-based Remora Optimization Algorithm for Global Optimization
-**Zekai Ai**, Xiaoming Shi*, [Heming Jia*]()
+**Zekai Ai**, Xiaoming Shi*, [Heming Jia*](https://scholar.google.com/citations?user=4uCYyjkAAAAJ&hl=zh-CN&oi=ao)
 
 [**PDF**](../assets/BROA.pdf)| <strong>Conference Paper</strong>
 - Use Beta-random Restart Strategy and Cauchy Strategy to optimize the Remora Optimization Algorithm.
@@ -65,17 +65,29 @@ Digital Twin Augmented Reality Visualization and Interaction Dashboard
 
 Supervisor: Prof. Ong Soh Khim/ Prof. Nee Yeh Ching
 
-[**PDF**](../assets/AIEVB.pdf)| <strong>Journal Paper</strong>
-- Summarized AI application in electric vehicle battery disassembly process, including state-of-health estimation, disassembly sequence planning, disassembly operations.
+<!--[**PDF**](../assets/AIEVB.pdf)| <strong>Journal Paper</strong> -->
+- Established an AR visualization and interaction platform that allows users to annotate real physical products/processes with detailed manufacturing information. A virtual model can control physical products, and changes in the physical product will be reflected in the virtual model. Hand gesture recognition control and multi-object control are integrated.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automation 2024</div><img src='assets/Digital Twin Robot.mp4' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Digital Twin Augmented Reality Visualization and Interaction Dashboard](https://www.mdpi.com/2673-4052/5/4/28)
+[Artificial Intelligence in Elctric Vehicle Battery Disassembly](https://www.mdpi.com/2673-4052/5/4/28)
 
-**Zekai Ai**, A.Y.C. Nee, S.K. Ong*
+Supervisor: Prof. Ong Soh Khim/ Prof. Nee Yeh Ching
+
+<!--[**PDF**](../assets/AIEVB.pdf)| <strong>Journal Paper</strong> -->
+- Summarized AI application in electric vehicle battery disassembly process, including state-of-health estimation, disassembly sequence planning, disassembly operations.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='assets/BROA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Improved Meta-heuristic Algorithms Based on Multiple Strategies
+
+Supervisor: [Heming Jia](https://scholar.google.com/citations?user=4uCYyjkAAAAJ&hl=zh-CN&oi=ao)
 
 [**PDF**](../assets/AIEVB.pdf)| <strong>Journal Paper</strong>
 - Summarized AI application in electric vehicle battery disassembly process, including state-of-health estimation, disassembly sequence planning, disassembly operations.
