@@ -75,15 +75,31 @@ Beta Random Restart Strategy-based Remora Optimization Algorithm for Global Opti
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
 - *2023.07 - 2025.01 (expected)*, Master, Mechanical Engineering, College of Design and Engineering, National University of Singapore, Singapore, Supervisor: Prof. Ong Soh Khim and Prof. Nee Yeh Ching.
 - *2019.09 - 2023.06*, Undergraduate, Mechanical Engineering, School of Mechanical and Aerospace Engineering, Jilin University, Changchun, China, Supervisor: Prof. Liu Siyuan and Prof. Zhang yunhui. [Thesis](../assets/ME Bachelor's Thesis.pdf)
 - *2020.09 - 2023.06*, Second Bachelor's Degree, Computer Science and Engineering, College of Computer Science and Engineering, Jilin University, Changchun, China, Supervisor: Prof. Dong Jinnan. [Thesis](../assets/CS Bachelor's Thesis.pdf)
 - *2022.09 - 2023.05*, Joint Education, Mechanical Engineering, National University of Singapore (Suzhou) Research Institute, Suzhou, China, Supervisor: Prof. Ong Soh Khim and Prof. Nee Yeh Ching. [Thesis](../assets/ME Bachelor's Thesis.pdf)
+
+# 🎖 Honors and Awards
+- *2023.06*&*2022.12* Jilin University Academic Scholarship ×2
+- *2021.12* Jilin University College Excellent Student Leader
+- *2021.01* Jilin University Social Practice Scholarship
+- *2021.12* Second Prize of the National 3D Digital Innovation Design Competition (Jilin Province Outstanding Prize） (as the captain) (Top 1%)
+- *2021.05* Outstanding Prize of Jilin Province in the National College Students Engineering Training Comprehensive Ability Competition (as the captain)
+- *2022.04* Meritorious Winner of 2022 Interdisciplinary Contest In Modeling(MCM/ICM) (Top 6%)
+- *2021.04* Honorable Mention of 2021 Interdisciplinary Contest In Modeling(MCM/ICM) (Top 23%)
+- *2022.05* Provincial College Students Innovation and Entrepreneurship Training Program (Top 10%)
+- *2023.06*&*2022.12*&*2021.12*&*2021.01* Jilin University Third Class Scholarship ×4
+
+# 🧭 Language and Skills
+- IELTS: 6.5 (All bands >=6.0)
+- CET6: 567  CET4:601
+- National Computer Rank Examination Level Ⅱ
+- Mandarin Proficiency Test Level 2-A
+- C#  Python  SolidWorks  Unity  Raspberry Pi  Arduino
+
 
 <!--# 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
