@@ -29,6 +29,7 @@ You can find my CV here: [Zekai Ai's Curriculum Vitae](../assets/CVAiZekai.pdf).
 - *2024.09*: &nbsp;🎉🎉 First Author Journal Paper "Artificial Intelligence in Electric Vehicle Battery Disassembly: A Systematic Review" Accepted by Automation.
 - *2024.09*: &nbsp;🎉🎉 First Author Conference Paper "Beta Random Restart Strategy-based Remora Optimization Algorithm for Global Optimization" Accepted by IEEE International Conference on Information Science and Technology.
 - *2023.07*: &nbsp;🎉🎉 Arrived in Singapore and started his MSc program at NUS. His research project was supervised by Prof [Prof. Ong Soh Khim](https://scholar.google.com/citations?user=u9aw970AAAAJ&hl=zh-CN&oi=ao) and [Prof. Nee Yeh Ching](https://scholar.google.com/citations?user=eGzaWUAAAAAJ&hl=zh-CN&oi=sra).
+- *2023.06*: &nbsp;🎉🎉 Graduated from Jilin University with a double degree in Mechanical Engineering and Computer Science and Technology
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
