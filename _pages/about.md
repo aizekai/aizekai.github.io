@@ -48,7 +48,7 @@ You can find my CV here: [Zekai Ai's Curriculum Vitae](../assets/CVAiZekai.pdf).
 <div class='paper-box-text' markdown="1">
 
 Beta Random Restart Strategy-based Remora Optimization Algorithm for Global Optimization
-**Zekai Ai**, Xiaoming Shi*, Heming Jia*
+**Zekai Ai**, Xiaoming Shi*, [Heming Jia*]()
 
 [**PDF**](../assets/BROA.pdf)| <strong>Conference Paper</strong>
 - Use Beta-random Restart Strategy and Cauchy Strategy to optimize the Remora Optimization Algorithm.
@@ -61,7 +61,7 @@ Beta Random Restart Strategy-based Remora Optimization Algorithm for Global Opti
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automation 2024</div><img src='images/AIEV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Artificial Intelligence in Electric Vehicle Battery Disassembly: A Systematic Review](https://www.mdpi.com/2673-4052/5/4/28)
+[Digital Twin Augmented Reality Visualization and Interaction Dashboard](https://www.mdpi.com/2673-4052/5/4/28)
 
 **Zekai Ai**, A.Y.C. Nee, S.K. Ong*
 
@@ -81,9 +81,9 @@ Beta Random Restart Strategy-based Remora Optimization Algorithm for Global Opti
 
 # 📖 Educations
 - *2023.07 - 2025.01 (expected)*, Master, Mechanical Engineering, College of Design and Engineering, National University of Singapore, Singapore, Supervisor: Prof. Ong Soh Khim and Prof. Nee Yeh Ching.
-- *2019.09 - 2023.06*, Undergraduate, Mechanical Engineering, School of Mechanical and Aerospace Engineering, Jilin University, Changchun, China, Supervisor: Prof. Liu Siyuan and Prof. Zhang yunhui. [Thesis]()
-- *2020.09 - 2023.06*, Second Bachelor's Degree, Computer Science and Engineering, College of Computer Science and Engineering, Jilin University, Changchun, China, Supervisor: Prof. Dong Jinnan. [Thesis]()
-- *2022.09 - 2023.05*, Joint Education, Mechanical Engineering, National University of Singapore (Suzhou) Research Institute, Suzhou, China, Supervisor: Prof. Ong Soh Khim and Prof. Nee Yeh Ching.
+- *2019.09 - 2023.06*, Undergraduate, Mechanical Engineering, School of Mechanical and Aerospace Engineering, Jilin University, Changchun, China, Supervisor: Prof. Liu Siyuan and Prof. Zhang yunhui. [Thesis](../assets/ME Bachelor's Thesis.pdf)
+- *2020.09 - 2023.06*, Second Bachelor's Degree, Computer Science and Engineering, College of Computer Science and Engineering, Jilin University, Changchun, China, Supervisor: Prof. Dong Jinnan. [Thesis](../assets/CS Bachelor's Thesis.pdf)
+- *2022.09 - 2023.05*, Joint Education, Mechanical Engineering, National University of Singapore (Suzhou) Research Institute, Suzhou, China, Supervisor: Prof. Ong Soh Khim and Prof. Nee Yeh Ching. [Thesis](../assets/ME Bachelor's Thesis.pdf)
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
