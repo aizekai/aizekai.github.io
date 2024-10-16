@@ -51,8 +51,10 @@ You can find my CV here: [Zekai Ai's Curriculum Vitae](../assets/CVAiZekai.pdf).
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.07 - 2025.01 (expected)*, Master, Mechanical Engineering, College of Design and Engineering, National University of Singapore, Singapore, Supervisor: Prof. Ong Soh Khim and Prof. Nee Yeh Ching.
+- *2019.09 - 2023.06*, Undergraduate, Mechanical Engineering, School of Mechanical and Aerospace Engineering, Jilin University, Changchun, China, Supervisor: Prof. Liu Siyuan and Prof. Zhang yunhui.
+- *2020.09 - 2023.06*, Second Bachelor's Degree, Computer Science and Engineering, College of Computer Science and Engineering, Jilin University, Changchun, China, Supervisor: Prof. Dong Jinnan.
+- *2022.09 - 2023.05*, Joint Education, Mechanical Engineering, National University of Singapore (Suzhou) Research Institute, Suzhou, China, Supervisor: Prof. Ong Soh Khim and Prof. Nee Yeh Ching.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
