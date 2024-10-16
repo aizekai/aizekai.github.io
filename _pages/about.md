@@ -58,7 +58,7 @@ Beta Random Restart Strategy-based Remora Optimization Algorithm for Global Opti
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 -->
 # 💻 Academic Experience
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automation 2024</div><img src='images/AIEV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automation 2024</div><img src='assets/Digital Twin Robot.mp4' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Digital Twin Augmented Reality Visualization and Interaction Dashboard](https://www.mdpi.com/2673-4052/5/4/28)
