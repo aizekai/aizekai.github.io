@@ -32,15 +32,15 @@ You can find my CV here: [Zekai Ai's Curriculum Vitae](../assets/CVAiZekai.pdf).
 - *2023.06*: &nbsp;🎉🎉 Graduated from Jilin University with a double degree in Mechanical Engineering and Computer Science and Technology
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automation 2024</div><img src='images/AIEV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Artificial Intelligence in Electric Vehicle Battery Disassembly: A Systematic Review](https://www.mdpi.com/2673-4052/5/4/28)
 
 **Zekai Ai**, A.Y.C. Nee, S.K. Ong*
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**PDF**](../assets/AIEVB.pdf)| <strong>Journal Paper</strong>
+- Summarized AI application in electric vehicle battery disassembly process, including state-of-health estimation, disassembly sequence planning, disassembly operations.
 </div>
 </div>
 
