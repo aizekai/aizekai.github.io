@@ -47,7 +47,8 @@ You can find my CV here: [Zekai Ai's Curriculum Vitae](../assets/CVAiZekai.pdf).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICIST 2024</div><img src='images/BROA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Beta Random Restart Strategy-based Remora Optimization Algorithm for Global Optimization
+[Beta Random Restart Strategy-based Remora Optimization Algorithm for Global Optimization](../assets/BROA.pdf)
+
 **Zekai Ai**, Xiaoming Shi*, [Heming Jia*](https://scholar.google.com/citations?user=4uCYyjkAAAAJ&hl=zh-CN&oi=ao)
 
 [**PDF**](../assets/BROA.pdf)| <strong>Conference Paper</strong>
@@ -89,15 +90,26 @@ Improved Meta-heuristic Algorithms Based on Multiple Strategies
 
 Supervisor: [Heming Jia](https://scholar.google.com/citations?user=4uCYyjkAAAAJ&hl=zh-CN&oi=ao)
 
-[**PDF**](../assets/AIEVB.pdf)| <strong>Journal Paper</strong>
-- Summarized AI application in electric vehicle battery disassembly process, including state-of-health estimation, disassembly sequence planning, disassembly operations.
+<!--[**PDF**](../assets/AIEVB.pdf)| <strong>Journal Paper</strong> -->
+- Multiple strategies were used to improve Remora Optimization Algorithm and Crayfish Optimization Algorithm.
 </div>
 </div>
 <!--
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='assets/BROA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+Assistive Navigation Device for the Low Vision Users
+
+Supervisor: Prof. Ong Soh Khim/ Prof. Nee Yeh Ching
+
+<!--[**PDF**](../assets/AIEVB.pdf)| <strong>Journal Paper</strong> -->
+- Developed an assistive traveling device for low-vision users. Arduino, Raspberry Pi, camera, and sensors are used to form a smart cane and a head-mounted intelligent identification device.
+  
+</div>
+</div>
 
 # 📖 Educations
 - *2023.07 - 2025.01 (expected)*, Master, Mechanical Engineering, College of Design and Engineering, National University of Singapore, Singapore, Supervisor: Prof. Ong Soh Khim and Prof. Nee Yeh Ching.
