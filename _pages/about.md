@@ -61,6 +61,18 @@ Beta Random Restart Strategy-based Remora Optimization Algorithm for Global Opti
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automation 2024</div><img src='assets/Digital Twin Robot.mp4' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+Digital Twin Augmented Reality Visualization and Interaction Dashboard
+
+Supervisor: Prof. Ong Soh Khim/ Prof. Nee Yeh Ching
+
+[**PDF**](../assets/AIEVB.pdf)| <strong>Journal Paper</strong>
+- Summarized AI application in electric vehicle battery disassembly process, including state-of-health estimation, disassembly sequence planning, disassembly operations.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Automation 2024</div><img src='assets/Digital Twin Robot.mp4' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 [Digital Twin Augmented Reality Visualization and Interaction Dashboard](https://www.mdpi.com/2673-4052/5/4/28)
 
 **Zekai Ai**, A.Y.C. Nee, S.K. Ong*
@@ -69,7 +81,6 @@ Beta Random Restart Strategy-based Remora Optimization Algorithm for Global Opti
 - Summarized AI application in electric vehicle battery disassembly process, including state-of-health estimation, disassembly sequence planning, disassembly operations.
 </div>
 </div>
-
 <!--
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
