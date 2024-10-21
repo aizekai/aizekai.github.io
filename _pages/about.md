@@ -113,10 +113,9 @@ Supervisor: Prof. Ong Soh Khim/ Prof. Nee Yeh Ching
 
 # 📖 Educations
 - *2023.07 - 2025.01 (expected)*, Master, Mechanical Engineering, College of Design and Engineering, National University of Singapore, Singapore, Supervisor: Prof. Ong Soh Khim and Prof. Nee Yeh Ching.
-- *2019.09 - 2023.06*, Undergraduate, Mechanical Engineering, School of Mechanical and Aerospace Engineering, Jilin University, Changchun, China, Supervisor: Prof. Liu Siyuan and Prof. Zhang yunhui. [Thesis](../assets/ME Bachelor's Thesis.pdf)
-- *2020.09 - 2023.06*, Second Bachelor's Degree, Computer Science and Engineering, College of Computer Science and Engineering, Jilin University, Changchun, China, Supervisor: Prof. Dong Jinnan. [Thesis](../assets/CS Bachelor's Thesis.pdf)
-- *2022.09 - 2023.05*, Joint Education, Mechanical Engineering, National University of Singapore (Suzhou) Research Institute, Suzhou, China, Supervisor: Prof. Ong Soh Khim and Prof. Nee Yeh Ching. [Thesis](../assets/ME Bachelor's Thesis.pdf)
-
+- *2019.09 - 2023.06*, Undergraduate, Mechanical Engineering, School of Mechanical and Aerospace Engineering, Jilin University, Changchun, China, Supervisor: Prof. Liu Siyuan and Prof. Zhang yunhui. 
+- *2020.09 - 2023.06*, Second Bachelor's Degree, Computer Science and Engineering, College of Computer Science and Engineering, Jilin University, Changchun, China, Supervisor: Prof. Dong Jinnan. 
+- *2022.09 - 2023.05*, Joint Education, Mechanical Engineering, National University of Singapore (Suzhou) Research Institute, Suzhou, China, Supervisor: Prof. Ong Soh Khim and Prof. Nee Yeh Ching.
 # 🎖 Honors and Awards
 - *2023.06*&*2022.12* Jilin University Academic Scholarship ×2
 - *2021.12* Jilin University College Excellent Student Leader
